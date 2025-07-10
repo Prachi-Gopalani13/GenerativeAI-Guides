@@ -108,6 +108,8 @@ Since then, major players like Google (PaLM, Gemini), Anthropic (Claude), Meta (
 * [OpenAI GPT-3 Paper](https://arxiv.org/abs/2005.14165)
 * [BERT Explained](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
 
+
+![image alt](https://github.com/Prachi-Gopalani13/GenerativeAI-Guides/blob/71953e0ad8bde1a37762fa981754973ddfa49287/free_cources/llm_2025/img/llm_sizes.png)
 ---
 
 ## 🧠 Anatomy of a Large Language Model (LLM)
@@ -217,5 +219,54 @@ When we refer to a **Large Language Model**, “large” typically describes thr
 
 ---
 
-Would you like this content formatted as a downloadable PDF, slide deck, or interactive explainer for a course?
+### 📄 **Must-Read Research Papers**
 
+These are the milestones that shaped modern LLMs:
+
+1. **[Attention Is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs/1706.03762)**
+   Introduced the transformer architecture, replacing RNNs and enabling parallel processing of tokens.
+
+2. **[BERT: Pre-training of Deep Bidirectional Transformers (Devlin et al., 2018)](https://arxiv.org/abs/1810.04805)**
+   Pioneered masked language modeling and fine-tuning for NLP tasks.
+
+3. **[GPT-3: Language Models are Few-Shot Learners (Brown et al., 2020)](https://arxiv.org/abs/2005.14165)**
+   Showcased the effectiveness of scaling and in-context learning.
+
+4. **[PaLM: Scaling Language Modeling with Pathways (Chowdhery et al., 2022)](https://arxiv.org/abs/2204.02311)**
+   Google's deep dive into massive multilingual and reasoning capabilities.
+
+5. **[RLHF: Training language models with human preferences (Ouyang et al., 2022)](https://arxiv.org/abs/2203.02155)**
+   Explains how models like ChatGPT are fine-tuned using human feedback.
+
+---
+
+### 📚 **Technical Guides & Blogs**
+
+Clear explanations and implementation-focused reads:
+
+* **[The Illustrated Transformer (by Jay Alammar)](https://jalammar.github.io/illustrated-transformer/)**
+  The best visual explanation of how transformers work, step by step.
+
+* **[The Annotated Transformer (by Harvard NLP)](http://nlp.seas.harvard.edu/2018/04/03/attention.html)**
+  Minimal PyTorch implementation of a transformer model with detailed commentary.
+
+* **[Understanding GPT: From scratch to implementation (Sebastian Raschka)](https://sebastianraschka.com/blog/2023/gpt-from-scratch.html)**
+  Walkthrough of how GPT models are structured and trained.
+
+* **[Hugging Face Course (free)](https://huggingface.co/learn/nlp-course)**
+  Hands-on intro to transformers, tokenizers, training, and inference using Hugging Face libraries.
+
+* **[OpenAI Cookbook](https://github.com/openai/openai-cookbook)**
+  Practical examples for using OpenAI APIs, fine-tuning, and prompt engineering.
+
+---
+
+### 🎥 **Videos & Lectures**
+
+* **[MIT Deep Learning for NLP](https://youtube.com/playlist?list=PL8PYTP1V4I8Bv0lBTXfRd5zPMBTm_5zY4)**
+  In-depth course from MIT covering LLMs, attention, and model internals.
+
+* **[DeepLearning.ai NLP Specialization (Coursera)](https://www.coursera.org/specializations/natural-language-processing)**
+  By Andrew Ng & team. Excellent fundamentals of NLP and modern architectures.
+
+---
